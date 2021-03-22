@@ -10,20 +10,20 @@
 	<test name="FirstMatch Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
-		    <!--  	<class  name="com.FirstMatchAdmin.testcases.TC_LoginTest_001" /> -->
-			<!--  <class  name="com.FirstMatchAdmin.testcases.TC_LoginDDT_002" /> -->
-			<!--  <class  name="com.FirstMatchAdmin.testcases.TC_ProfilePage_003" /> -->
-		   <!--  	<class  name="com.FirstMatchAdmin.testcases.TC_EifForms_004" /> -->  
-	    <!--     	<class  name="com.FirstMatchAdmin.testcases.TC_RafForms_005" />  -->
-		<!--	<class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_Forms_QC_006" /> -->
-		<!--  	<class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_Forms_AddQC_007" /> -->
-		<!--    	<class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_Forms_AddQC_SubCategory_008" /> -->
-		 <!--   <class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_Forms_QL_009" /> -->
-		  <!--  <class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_Forms_AddQL_010" /> -->
-		 <!--   <class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_Users_011" /> -->
-		  <!--     <class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_EmailsList_012" /> -->
-		       <class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_OrganisationsList_013" />  
-		    <!--   <class  name="com.FirstMatchAdmin.testcases.TC_ConfigureFirstMatchOrganisation_14" /> -->
+		    <!--  	<class  name="com.FirstMatchAdmin.testcases.TC_LoginTest_001" />
+			        <class  name="com.FirstMatchAdmin.testcases.TC_LoginDDT_002" /> 
+			        <class  name="com.FirstMatchAdmin.testcases.TC_ProfilePage_003" /> 
+		    	        <class  name="com.FirstMatchAdmin.testcases.TC_EifForms_004" />   
+	      	                <class  name="com.FirstMatchAdmin.testcases.TC_RafForms_005" />  
+			        <class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_Forms_QC_006" /> 
+		  	        <class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_Forms_AddQC_007" /> 
+		    	        <class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_Forms_AddQC_SubCategory_008" /> 
+		                <class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_Forms_QL_009" /> 
+		                <class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_Forms_AddQL_010" /> 
+		                <class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_Users_011" /> 
+	                        <class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_EmailsList_012" /> 
+		                <class  name="com.FirstMatchAdmin.testcases.TC_ConfigurePage_OrganisationsList_013" />  
+		                <class  name="com.FirstMatchAdmin.testcases.TC_ConfigureFirstMatchOrganisation_14" /> 
 			
 
 		</classes>
